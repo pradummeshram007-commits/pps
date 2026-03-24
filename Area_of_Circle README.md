@@ -21,3 +21,4 @@ Use π = 3.14 and display the area.
 
 ## Execution
 <img src="https://github.com/user-attachments/assets/9323d1d8-913a-473f-96ec-fb64f2d5c6a8" width="900"/>
+<img src="Area_of_Cricle Code.png"
